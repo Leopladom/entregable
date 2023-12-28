@@ -3,21 +3,21 @@
     "id": 1,
     "name": "Anafe",
     "price": 9999,
-    "image": "../src/assets/anafe.png",
+    "image": "/src/assets/anafe.png",
     "description": "1 Hornalla"
   },
   {
     "id": 2,
     "name": "Batidora",
     "price": 800,
-    "image": "../src/assets/batidora.jpg",
+    "image": "/src/assets/batidora.jpg",
     "description": "Batidora Manual"
   },
   {
     "id": 3,
     "name": "Celular",
     "price": 48000,
-    "image": "../src/assets/celu.png",
+    "image": "/src/assets/celu.png",
     "description": "MotoG2"
   },
   {
