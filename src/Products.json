@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Anafe",
+    "price": 9999,
+    "image": "../src/assets/anafe.png",
+    "description": "1 Hornalla"
+  },
+  {
+    "id": 2,
+    "name": "Batidora",
+    "price": 800,
+    "image": "../src/assets/batidora.jpg",
+    "description": "Batidora Manual"
+  },
+  {
+    "id": 3,
+    "name": "Celular",
+    "price": 48000,
+    "image": "../src/assets/celu.png",
+    "description": "MotoG2"
+  },
+  {
+    "id": 4,
+    "name": "Celular 2",
+    "price": 57050,
+    "image": "../src/assets/celu2.png",
+    "description": "Old Schools"
+  },
+  {
+    "id": 5,
+    "name": "Freidora",
+    "price": 631479,
+    "image": "../src/assets/freidora.png",
+    "description": "Freidora Aire"
+  },
+  {
+    "id": 6,
+    "name": "Heladera",
+    "price": 18550,
+    "image": "../src/assets/heladera.png",
+    "description": "Heladera Gris"
+  },
+  {
+    "id": 7,
+    "name": "Horno",
+    "price": 974585,
+    "image": "../src/assets/horno.png",
+    "description": "Pizzero Mediano"
+  },
+  {
+    "id": 8,
+    "name": "Lavadora",
+    "price": 485000,
+    "image": "../src/assets/lava.png",
+    "description": "Gris Samsung"
+  },
+  {
+    "id": 9,
+    "name": "Lavadora 2",
+    "price": 75874,
+    "image": "../src/assets/lava2.png",
+    "description": "Blanca Retro"
+  },
+  {
+    "id": 10,
+    "name": "Lavadora 3",
+    "price": 125749,
+    "image": "../src/assets/lava3.png",
+    "description": "Bordo Moderno"
+  },
+  {
+    "id": 11,
+    "name": "Licuadora",
+    "price": 57412,
+    "image": "../src/assets/licu.png",
+    "description": "MiniPimmer"
+  },
+  {
+    "id": 12,
+    "name": "Plancha",
+    "price": 18550,
+    "image": "../src/assets/plancha.png",
+    "description": "Blanca Eco"
+  },
+  {
+    "id": 13,
+    "name": "Telefono 1",
+    "price": 35677,
+    "image": "../src/assets/tel.png",
+    "description": "Inalambrico"
+  },
+  {
+    "id": 14,
+    "name": "Telefono 2",
+    "price": 65789,
+    "image": "../src/assets/tel2.png",
+    "description": "Con Cable"
+  },
+  {
+    "id": 15,
+    "name": "Telefono 3",
+    "price": 45874,
+    "image": "../src/assets/telef4.png",
+    "description": "Retro"
+  },
+  {
+    "id": 16,
+    "name": "Termotanque",
+    "price": 654879,
+    "image": "../src/assets/termotanque.png",
+    "description": "700 Litros"
+  },
+  {
+    "id": 17,
+    "name": "Tostadora",
+    "price": 58755,
+    "image": "../src/assets/tostadora.png",
+    "description": "4 Panes"
+  },
+  {
+    "id": 18,
+    "name": "Ventilador",
+    "price": 485000,
+    "image": "../src/assets/ventilador.png",
+    "description": "De Pie"
+  },
+  {
+    "id": 19,
+    "name": "Pc - Escritorio",
+    "price": 855000,
+    "image": "../src/assets/pc1.png",
+    "description": "Gamer"
+  },
+  {
+    "id": 20,
+    "name": "Pc - Escritorio 2",
+    "price": 4800,
+    "image": "../src/assets/pc2.png",
+    "description": "Para la Oficina"
+  }
+]
