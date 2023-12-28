@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Anafe",
     "price": 9999,
-    "image": "../src/assets/anafe.png",
+    "image": "./src/assets/anafe.png",
     "description": "1 Hornalla"
   },
   {
