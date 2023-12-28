@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Cart from './components/Cart';
 import ItemList from './components/ItemList';
-import productsData from './products.json';
+import productsData from './Products.json';
 import MyAppBar from './components/MyAppBar';
 import Footer from './components/Footer'
 
