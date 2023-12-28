@@ -3,21 +3,21 @@
     "id": 1,
     "name": "Anafe",
     "price": 9999,
-    "image": "/assets/anafe.png",
+    "image": "https://github.com/Leopladom/entregable/blob/main/src/assets/anafe.png?raw=true",
     "description": "1 Hornalla"
   },
   {
     "id": 2,
     "name": "Batidora",
     "price": 800,
-    "image": "/assets/batidora.jpg",
+    "image": "../src/assets/batidora.jpg",
     "description": "Batidora Manual"
   },
   {
     "id": 3,
     "name": "Celular",
     "price": 48000,
-    "image": "/src/assets/celu.png",
+    "image": "../src/assets/celu.png",
     "description": "MotoG2"
   },
   {
